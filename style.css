@@ -348,8 +348,11 @@ padding: 16px 0px 16px 16px ;
 
 }
 @media (min-width:768px) and (max-width:991px){
-  nav ul li{
-
+    .about .container .row .box-2{
+    width:100%;
+  }
+  .about .container .row .box-1{
+    display: none;
   }
 
 }
