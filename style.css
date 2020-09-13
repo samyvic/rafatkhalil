@@ -387,14 +387,14 @@ padding: 16px;
   .contact .container .row .box:nth-child(1) .x{
     float: right;
     display: inline-block;
-    width: 45%;
+    width: 40%;
     padding-right: 5%;
   }
   .contact .container .row .x p{
     font-weight: bold;
   }
   .contact .container .row .y p,.contact .container .row .y h3{
-    font-size: 100%;
+    font-size: 120%;
   }
   .contact .container .row .box:nth-child(1) .y{
     display: inline-block;
